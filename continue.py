@@ -3,6 +3,6 @@ while True:
     if line[0] == '#':
         continue
     if line == 'done':
-        break  
+        break   
     print(line)
 print('Done!')
