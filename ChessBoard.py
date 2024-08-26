@@ -9,7 +9,7 @@ def draw_chessboard():
     plt.figure(figsize=(4, 4))
     plt.imshow(chessboard, cmap='gray', interpolation='nearest')
 
-    plt.xticks([])
+    plt.xticks([]) 
     plt.yticks([])
     plt.title('Chessboard', fontsize=20)
 
