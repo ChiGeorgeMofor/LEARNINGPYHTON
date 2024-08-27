@@ -1,6 +1,6 @@
 def things():
     print('Hello')
-    print('Friend')
+    print('Friend') 
 
 things()
 print('Zip Space')
