@@ -3,7 +3,7 @@ def things():
     print('Friend') 
 
 things()
-print('Zip Space')
+print('Zip Space') 
 things()   
 
 
