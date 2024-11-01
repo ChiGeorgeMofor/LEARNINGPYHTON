@@ -5,6 +5,6 @@ if x < 2:
 elif x < 10:
     print('Medium')
 else:
-    print('Large') 
+    print('Large')  
 print('All Done')
 
