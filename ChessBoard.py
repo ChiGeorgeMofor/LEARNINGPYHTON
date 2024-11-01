@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
- 
+  
 def draw_chessboard():
     chessboard = np.zeros((8, 8))
     chessboard[1::2, ::2] = 1
